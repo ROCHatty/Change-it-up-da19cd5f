@@ -1,1 +1,1 @@
-document.querySelector("h1").innerText = "Dabshit";
+document.querySelector("h1").innerText = document.title;
